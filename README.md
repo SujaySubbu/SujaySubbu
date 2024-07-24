@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Sujay
+- 👩🏻‍🎓 Studied Electrical and Electronics Engineering at the BITS Pilani
+- 📫 How to reach me sujay.subbu16@gmail.com
 
 <!--
 **SujaySubbu/SujaySubbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech
+- 👩🏻‍🎓 Studied Computer Science at the University of Otago, New Zealand
+- 🎨 Making videos about Computer Science, tech, and productivity on YouTube
+- 🌷 #learninginpublic in my digital garden
+- 💭 Currently learning about data analytics and dataviz!
 -->
