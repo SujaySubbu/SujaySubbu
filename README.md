@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Sujay
-- 👩🏻‍🎓 Studied Electrical and Electronics Engineering at the BITS Pilani
+- 👩🏻‍🎓 Studied Electrical and Electronics Engineering at BITS Pilani
 - 📫 How to reach me sujay.subbu16@gmail.com
 
 <!--
